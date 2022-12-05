@@ -1,0 +1,19 @@
+# Windows Autopilot endpoints
+0.0.0.0 ztd.dds.microsoft.com
+0.0.0.0 cs.dds.microsoft.com
+
+# Cortana endpoints
+0.0.0.0 s-ring.msedge.net
+0.0.0.0 I-ring.msedge.net
+
+# Intune endpoints
+0.0.0.0 portal.manage.microsoft.com
+0.0.0.0 r.manage.microsoft.com
+0.0.0.0 m.manage.microsoft.com
+0.0.0.0 manage.microsoft.com
+0.0.0.0 officeconfig.msocdn.com
+0.0.0.0 config.office.com
+0.0.0.0 enterpriseregistration.windows.net
+0.0.0.0 fef.msuc03.manage.microsoft.com
+0.0.0.0 wip.mam.manage.microsoft.com
+0.0.0.0 mam.manage.microsoft.com
